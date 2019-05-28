@@ -1,0 +1,642 @@
+{
+    "cesar": {
+        "name": "Cesar",
+        "week": [
+            {
+                "name": "Domingo",
+                "rest": true
+            },
+            {
+                "name": "Segunda",
+                "session": "HIIT Express 1",
+                "rest": false,
+                "exercises": [
+                    {
+                        "name": "Abre e Fecha",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Corrida Estacionária",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Prancha Isométrica",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Abdome Estica e Puxa",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    }
+                ],
+                "repetitions": 6
+            },
+            {
+                "name": "Terça",
+                "rest": false,
+                "session": "Abs em 5 Minutos & Tabata Run",
+                "exercises": [
+                    {
+                        "name": "Prancha com braços estendidos",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Elevação de Quadril com Perna alternada",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha Lateral Direita",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha Lateral Esquerda",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha com braços estendidos",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Elevação de Quadril com Perna alternada",
+                        "time": 30
+                    },
+                    {
+                        "name": "Jab e Direto",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Sobe e Desce Degrau",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Deslocamento Lateral",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    }
+                ]
+            },
+            {
+                "name": "Quarta",
+                "rest": true
+            },
+            {
+                "name": "Quinta",
+                "rest": false,
+                "session": "30 por 30",
+                "exercises": [
+                    {
+                        "name": "Sobe e Desce Degrau",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Infra",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Polichinelo",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Afundo",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Abre e Fecha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Flexão",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Skipping",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Abdome Estica e Puxa",
+                        "time": 30
+                    }
+                ],
+                "repetitions": 2
+            },
+            {
+                "name": "Sexta",
+                "session": "HIIT Express 2",
+                "rest": false,
+                "exercises": [
+                    {
+                        "name": "Agachamento",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Agachamento Isométric",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Flexão de Braço",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Jab Direto",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    }
+                ],
+                "repetitions": 6
+            },
+            {
+                "name": "Sábado",
+                "rest": true
+            }
+        ]
+    },
+    "luana": {
+        "name": "Luana",
+        "week": [
+            {
+                "name": "Domingo",
+                "rest": true
+            },
+            {
+                "name": "Segunda",
+                "session": "HIIT Express 1",
+                "rest": false,
+                "exercises": [
+                    {
+                        "name": "Abre e Fecha",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Corrida Estacionária",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Prancha Isométrica",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Abdome Estica e Puxa",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    }
+                ],
+                "repetitions": 6
+            },
+            {
+                "name": "Terça",
+                "rest": true
+            },
+            {
+                "name": "Quarta",
+                "rest": false,
+                "session": "Abs em 5 Minutos & Tabata Run",
+                "exercises": [
+                    {
+                        "name": "Prancha com braços estendidos",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Elevação de Quadril com Perna alternada",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha Lateral Direita",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha Lateral Esquerda",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha com braços estendidos",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Prancha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 10
+                    },
+                    {
+                        "name": "Elevação de Quadril com Perna alternada",
+                        "time": 30
+                    },
+                    {
+                        "name": "Jab e Direto",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Sobe e Desce Degrau",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Deslocamento Lateral",
+                        "time": 15
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 5
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 20
+                    },
+                    {
+                        "name": "Corrida Estacionaria",
+                        "time": 10
+                    }
+                ]
+            },
+            {
+                "name": "Quinta",
+                "rest": true
+            },
+            {
+                "name": "Sexta",
+                "rest": false,
+                "session": "30 por 30",
+                "exercises": [
+                    {
+                        "name": "Sobe e Desce Degrau",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Infra",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Polichinelo",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Afundo",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Abre e Fecha",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Flexão",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Skipping",
+                        "time": 30
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 30
+                    },
+                    {
+                        "name": "Abdome Estica e Puxa",
+                        "time": 30
+                    }
+                ],
+                "repetitions": 6
+            },
+            {
+                "name": "Sábado",
+                "session": "HIIT Express 2",
+                "rest": false,
+                "exercises": [
+                    {
+                        "name": "Agachamento",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Agachamento Isométric",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Flexão de Braço",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    },
+                    {
+                        "name": "Jab Direto",
+                        "time": 35
+                    },
+                    {
+                        "name": "Descanso",
+                        "time": 15
+                    }
+                ],
+                "repetitions": 6
+            }
+        ]
+    }
+}
